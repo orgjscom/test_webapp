@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "137591652462",
+    "firebase_url": "https://test-5fc93.firebaseio.com",
+    "project_id": "test-5fc93",
+    "storage_bucket": "test-5fc93.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:137591652462:android:13fb14e65003ba25",
+        "android_client_info": {
+          "package_name": "com.credhol.test"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "137591652462-kl2a945ub8j0r2b6vd8mv9ahma9u13nv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDfeY_90z4dbBhLzwtiv_M57d6KkzCZ5Fg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
